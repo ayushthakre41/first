@@ -1,0 +1,23 @@
+<html>
+
+<head> <b> Ayush Thakre
+
+CS24007 </b>
+
+</head>
+
+<h3 align="center"><u> Practical 1 </u></h3>
+
+<body bgcolor="pink">
+
+<p> SBJITMR is an autonomous institute. It is located at Fetri, Katol Road, Nagpur. College consist of many branches such as CSE, AIML, DS, ETC, EE, ME, ect.
+
+The intake for CSE branch is of 240 students. </p>
+
+<h4 style "color:white"> S B JAIN INSTITUTE OF TECHNOLOGY MANAGEMENT AND RESEARCH </h4>
+
+<img src="C:\Users\Student\Desktop\image.jpg">
+
+</body>
+
+</html>
