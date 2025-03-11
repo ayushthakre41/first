@@ -1,0 +1,37 @@
+<html>
+<head> 
+<b> Ayush Thakre </b>
+<b> CS24007 </b>
+
+<title> Practical 2 </title>
+<body>
+<h2> List Of Programming Language </h2>
+<ol>
+<li> C++ </li>
+<li> Python </li>
+<li> Java </li>
+<li> Ruby </li>
+</ol>
+<hr>
+<ul>
+<h2> List Of Car Names </h2> 
+<li> Ferrari </li>
+<li> Honda </li>
+<li> BMW </li>
+<li> Tata </li>
+</ul>
+<hr>
+<dl>
+<h2> List Of IDE's </h2>
+ <dd> Bracket </dd>
+<dd> V S Code </dd>
+<dd> Atom </dd>
+<dd> Web Storm </dd>
+</dl>
+<hr>
+<a href = "https://www.youtube.com/results?search_query=dabeli"> Here's Recipe For Dabeli</a>
+</body>
+</html>
+
+
+
